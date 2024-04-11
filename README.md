@@ -49,3 +49,10 @@ This is a simple Todo application built using React. Users can add todo items to
 2. To mark a todo item as completed, click on the checkbox next to the item.
 
 3. To delete a todo item, click on the delete button next to the item.
+
+## Example
+
+![Todo App Screenshot](https://github.com/sunnyjoel/ToDo-App/assets/53609552/ffd28c5b-70d8-4d38-ab9c-d3807f46109d)
+
+2
+![Screenshot 2024-04-11 101929](https://github.com/sunnyjoel/ToDo-App/assets/53609552/ffd28c5b-70d8-4d38-ab9c-d3807f46109d)
