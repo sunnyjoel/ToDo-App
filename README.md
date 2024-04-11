@@ -40,7 +40,7 @@ This is a simple Todo application built using React. Users can add todo items to
    npm run dev
    ```
 
-5. Open your browser and visit `http://localhost:3000` to view the app.
+5. Open your browser and visit `http://localhost:5173` to view the app.
 
 ## Usage
 
