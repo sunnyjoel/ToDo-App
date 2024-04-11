@@ -54,5 +54,7 @@ This is a simple Todo application built using React. Users can add todo items to
 
 ![Todo App Screenshot](https://github.com/sunnyjoel/ToDo-App/assets/53609552/ffd28c5b-70d8-4d38-ab9c-d3807f46109d)
 
-2
-![Screenshot 2024-04-11 101929](https://github.com/sunnyjoel/ToDo-App/assets/53609552/ffd28c5b-70d8-4d38-ab9c-d3807f46109d)
+![Todo App Screenshot](https://github.com/sunnyjoel/ToDo-App/assets/53609552/ed0ba5c3-2df6-40d8-9240-4cb0adcb0517)
+
+![Todo App Screenshot](https://github.com/sunnyjoel/ToDo-App/assets/53609552/e6f716ca-41c5-4f84-809f-6d2a91acae2e)
+
